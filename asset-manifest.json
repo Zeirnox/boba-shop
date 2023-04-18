@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/boba-shop/static/css/main.10e40398.css",
+    "main.js": "/boba-shop/static/js/main.f97ca222.js",
+    "static/media/Hero-mobile.jpg": "/boba-shop/static/media/Hero-mobile.e91b540b0a7b85efb353.jpg",
+    "static/media/Hero.jpg": "/boba-shop/static/media/Hero.88031c035d5a548c4855.jpg",
+    "static/media/n1.jpg": "/boba-shop/static/media/n1.343c8ab811709e42de18.jpg",
+    "static/media/n3.jpg": "/boba-shop/static/media/n3.67bef89d2198333060d9.jpg",
+    "static/media/n2.jpg": "/boba-shop/static/media/n2.91d076657add68ca399d.jpg",
+    "index.html": "/boba-shop/index.html",
+    "main.10e40398.css.map": "/boba-shop/static/css/main.10e40398.css.map",
+    "main.f97ca222.js.map": "/boba-shop/static/js/main.f97ca222.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10e40398.css",
+    "static/js/main.f97ca222.js"
+  ]
+}
