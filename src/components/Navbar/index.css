@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.mainNav{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.storeName {
+    font-size: 54px;
+    color: white;
+    margin-left: 20px;
+}
+.nav-button {
+    height: 50px;
+    width: 50px;
+    font-size: 40px;
+    color: white;
+    background: none;
+    border: none;
+    margin: 10px 20px;
+}
+#navbar {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    background: #121212;
+}
+li {
+    list-style: none;
+    font-size: 36px;
+    height: 72px;
+}

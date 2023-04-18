@@ -1,0 +1,86 @@
+img {
+    width: 100%;
+}
+h2 {
+    font-size: 40px;
+    margin: 20px 30px 10px;
+    display: grid;
+    justify-content: center;
+    
+}
+p {
+    font-size: 16px;
+    margin: 20px 30px 30px;
+}
+.readMore-btn{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+button {
+    width: 200px;
+    height: 60px;
+    font-size: 26px;
+    border: none;
+    border-radius: 20px;
+    background: lightseagreen;
+}
+.menu {
+    margin:50px 15px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    background: lightblue;
+    border-radius: 100px;
+    width: 90%;
+}
+.drinks {
+    display: flex;
+    width: 100%;
+    overflow: scroll;
+}
+.drink1, .drink2, .drink3 {
+    margin: 20px 10px;
+    border-radius: 20px;
+    height: 170px;
+    width: 100px;
+}
+.menu-btn{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.footer-section{
+    display: grid;
+    grid: auto / auto;
+    background: lightgreen;
+}
+.footer-section > div  {
+    border-bottom: 3px solid grey;
+}
+.footer-section > div > h3 {
+    margin-top: 20px;
+    margin-left: 40px
+}
+
+.location-1, .location-2, .location-3{
+    margin-left: 40px;
+}
+
+/* Mobile */
+@media screen and (max-width: 60rem) {
+    .hero {
+        display: none;
+    }
+}
+
+/* Monitor */
+@media screen and (min-width: 60rem) {
+    .hero--mobile {
+        display: none;
+    }
+    p {
+        margin: 40px 200px;
+    }
+}
+
